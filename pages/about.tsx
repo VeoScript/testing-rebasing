@@ -9,6 +9,7 @@ const About: FC = (): JSX.Element => {
       </Head>
       <div>
         <p>This is the about page</p>
+        <h1>another modificdation from branch 002</h1>
       </div>
     </>
   )
